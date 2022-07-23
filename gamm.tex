@@ -10,10 +10,12 @@
 }
 \author{Christopher Nies}
 \institute{Chair of Structural Mechanics}
+\date{16.08.2022}
 \setbeamertemplate{navigation symbols}{}
 %
 \usepackage{bm}
 \usepackage{siunitx}
+% \usepackage{lmodern}
 %
 \newcommand{\bmr}[1]{\bm{\mathrm{#1}}} % bold math roman
 %
@@ -84,15 +86,17 @@
 \begin{frame}{Test figure}
 
 \begin{figure}
-    \includegraphics[width=.7\textwidth]{example-image}
+    \includegraphics[width=.55\textwidth]{example-image}
+    \caption{Testcaption}\label{fig:testfig}
 \end{figure}
 \end{frame}
 
 \begin{frame}{Test svg-figure}
 
 \begin{figure}
-    \def\svgwidth{.65\textwidth}
-    \small{\input{nu_silicon-wolfram-outer-0.pdf_tex}}
+    \def\svgwidth{.6\textwidth}
+    \scriptsize{\input{nu_silicon-wolfram-outer-0.pdf_tex}}
+	\caption{TestcaptionSVG}\label{fig:svg}
 \end{figure}
 
 \end{frame}
