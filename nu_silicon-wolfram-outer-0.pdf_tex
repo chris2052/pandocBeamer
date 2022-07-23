@@ -1,0 +1,77 @@
+%% Creator: Inkscape 1.2 (dc2aedaf03, 2022-05-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'nu_silicon-wolfram-outer-0.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{226.77165354bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.95037136)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{nu_silicon-wolfram-outer-0.pdf}}%
+    \put(0.16885746,0.34144831){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}1. Bandl{\"u}cke: 57 - 73 Hz\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{nu_silicon-wolfram-outer-0.pdf}}%
+    \put(0.16885746,0.5404833){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}2. Bandl{\"u}cke: 88 - 195 Hz\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{nu_silicon-wolfram-outer-0.pdf}}%
+    \put(0.16885746,0.78652231){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}3. Bandl{\"u}cke: 215 - 257 Hz\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{nu_silicon-wolfram-outer-0.pdf}}%
+    \put(0.125,0.1328333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\Gamma$\end{tabular}}}}%
+    \put(0.34867312,0.1328333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}X\end{tabular}}}}%
+    \put(0.56796013,0.1328333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}M\end{tabular}}}}%
+    \put(0.8749624,0.1328333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\Gamma$\end{tabular}}}}%
+    \put(0.49998154,0.0668333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Wellenvektor $\bm{k}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{nu_silicon-wolfram-outer-0.pdf}}%
+    \put(0.10766753,0.17416663){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.10766753,0.30415629){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}50\end{tabular}}}}%
+    \put(0.10766753,0.43414629){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}100\end{tabular}}}}%
+    \put(0.10766753,0.56413629){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}150\end{tabular}}}}%
+    \put(0.10766753,0.69412596){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}200\end{tabular}}}}%
+    \put(0.10766753,0.82411596){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}250\end{tabular}}}}%
+    \put(-0.01677056,0.56250031){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Frequenz $f$ [\unit{Hz}]\end{tabular}}}}}%
+  \end{picture}%
+\endgroup%
