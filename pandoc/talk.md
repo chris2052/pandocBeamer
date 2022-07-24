@@ -2,7 +2,7 @@
 title: Development of a FEM tool to calculate the dispersion curves of 2D phononic structures
 author: Christopher Nies
 institute: Chair of Structural Mechanics
-theme: Berlin
+theme: Dresden
 header-includes:
   - \usepackage{bm}
   - \usepackage{siunitx}
